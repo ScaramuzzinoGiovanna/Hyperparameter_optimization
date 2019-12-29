@@ -8,7 +8,7 @@ In this project three algorithms were compared to optimize the hyperparameters o
 
 1. Clone this repository with:
 ```sh
-git clone https://github.com/ScaramuzzinoGiovanna/Hyperparameter_optimization_CNN.git 
+git clone https://github.com/ScaramuzzinoGiovanna/Hyperparameter_optimization.git
 ```
 2. Prerequisites for run this code:
     * OpenCV  
